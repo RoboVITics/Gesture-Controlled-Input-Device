@@ -6,7 +6,8 @@ from pygarl.data_readers import SerialDataReader
 from pygarl.predictors import ClassifierPredictor
 from pygarl.sample_managers import DiscreteSampleManager
 
-MODEL_PATH="C:\\Users\\Admin\\model.svm"
+#directory where your svm file is stored
+MODEL_PATH="C:\\Users\\Admin\\model.svm" 
 PORT="COM4"
 
 def receive_character(letter):
