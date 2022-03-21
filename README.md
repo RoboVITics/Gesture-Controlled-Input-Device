@@ -14,3 +14,6 @@ Software:
 
 Credits:
 I would like to thank RoboVITics to give me this opportunity to work on this project. I would also like to thank Fedrico Terzi, the creator of the pygarl library and the original creator of the gesture controlled keyboard. The pygarl library was very essential to this project.
+
+Made By,
+Anirudh Mohanty
